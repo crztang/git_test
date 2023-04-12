@@ -2,4 +2,5 @@ hello Git.
 yes
 thanks
 fuck
+"这是master提交的代码"
 
